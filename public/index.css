@@ -1,0 +1,12 @@
+h2
+{
+    border:black 2px solid;
+}
+.row
+{
+    border:black 2px solid;   
+}
+html
+{
+    box-sizing: border-box;
+}
